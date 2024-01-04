@@ -1,10 +1,10 @@
 # GitHub Flavored Markdown
 
-- [ ] [External Link](#external-link)
-- [ ] [Internal Link](#internal-link)
-- [ ] [Images](#images)
-- [ ] [Emojis](#emojis)
-- [ ] [Tables](#tables)
+- [x] [External Link](#external-link)
+- [x] [Internal Link](#internal-link)
+- [x] [Images](#images)
+- [x] [Emojis](#emojis)
+- [x] [Tables](#tables)
 
 
 
