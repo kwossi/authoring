@@ -1,25 +1,36 @@
 # GitHub Flavored Markdown
 
+- [ ] [External Link](#external-link)
+- [ ] [Internal Link](#internal-link)
+- [ ] [Images](#images)
+- [ ] [Emojis](#emojis)
+- [ ] [Tables](#tables)
+
+
+
 ## External Link
 
 [GitHub Docs](https://help.github.com/en)
-
-- [ ] External Link
 
 ## Internal Link
 
 [Images](images/)
 
-- [ ] Internal Link
-
 ## Images
 
-- [ ] Images
+![Marie C.](images/Marie_Curie_c._1920s.jpeg)
 
 ## Emojis 
 
-- [ ] Emojis
+:upside_down_face:
+[Check this link!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+:wink:
 
 ## Tables 
 
-- [ ] Tables
+| Names | Class |
+| --- | --- |
+| Nameroni | You name it. |
+| El Segundo | English class |
+
+
